@@ -1,4 +1,4 @@
-# push_swap
+# push_swap & checker
 
 <p align="center">
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_swap 42 project badge"/>
@@ -19,7 +19,7 @@ push_swap is a 42 school algorithm project where we must sort a given list of ra
   <li>Average: 4901</li>
 </ul>
 ## Status
-Finished 29/02/2024. Grade: 100%
+Finished 29/02/2024. Grade: 125%
 
 ## Usage
 
